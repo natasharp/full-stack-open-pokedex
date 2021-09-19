@@ -1,6 +1,6 @@
 # Full Stack open CI/CD
 
-This repository contains the solutions for the exercises 11.1-11.20 of Fullstack Open course part 11 - **CI/CD**.
+This repository contains the solutions for the exercises 11.1-11.20 of Fullstack Open course part 11 - **CI/CD**. Solutions for the exercise 11.21-11.22 of part 11 can be found [here](https://github.com/natasharp/pinblog).
 
 ## Commands
 
